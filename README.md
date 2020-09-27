@@ -1,6 +1,6 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-# A method to quantify the deforming shapes of soft bodies using elliptic Fourier descriptors, dimensionality reduction and PCA
+# A method to quantify deforming shapes using elliptic Fourier descriptors, dimensionality reduction and PCA
 This is simplified working example of the code used in the paper  
 **Quantifying Dynamic Shapes in Soft Morphologies**  
 Digumarti, K.M., Trimmer, B., Conn, A.T. and Rossiter, J., 2019. Soft Robotics, 6(6), pp.733-744.  
