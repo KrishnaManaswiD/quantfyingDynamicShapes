@@ -1,7 +1,7 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 # A method to quantify deforming shapes using elliptic Fourier descriptors, dimensionality reduction and PCA
-This is a simplified working example to perform an analysis of shapes as described in
+This is a simplified working example to perform an analysis of shapes as described in  
 **Quantifying Dynamic Shapes in Soft Morphologies**  
 Digumarti, K.M., Trimmer, B., Conn, A.T. and Rossiter, J., 2019. Soft Robotics, 6(6), pp.733-744.  
 https://www.liebertpub.com/doi/full/10.1089/soro.2018.0105  
